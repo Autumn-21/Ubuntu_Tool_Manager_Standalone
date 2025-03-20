@@ -34,7 +34,7 @@ cd Ubuntu_Tool_Manager_Standalone
 ### 4. Run the Package Manager
 In the project directory, run the following command to start the Ubuntu Tool Manager:
 ```bash
-python main_package_manager.py
+python3 main_package_manager.py
 ```
 
 ### 5. Use the Package Manager
