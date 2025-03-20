@@ -5,7 +5,7 @@ from PyQt5.QtCore import Qt
 
 # Define the mapping of buttons to their respective Python scripts
 PACKAGE_SCRIPTS = {
-    "NGSpice Package Manager": "ngspice_package_manager.py",
+    "Ngspice Package Manager": "ngspice_package_manager.py",
     "KiCad Package Manager": "kicad_package_manager.py",
     "GHDL Package Manager": "ghdl_package_manager.py",
     "LLVM Package Manager": "llvm_package_manager.py",
